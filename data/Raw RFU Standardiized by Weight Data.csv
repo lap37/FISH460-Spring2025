@@ -1,0 +1,52 @@
+﻿Treatment ,Crab ID,Time ,RFU/ Weight ,Week 
+Control ,CTR 1,30,164.9193548,1
+Control ,CTR 1,60,237.9032258,1
+Control ,CTR 1,90,297.983871,1
+Control ,CTR 2,30,200.2967359,1
+Control ,CTR 2,60,267.0623145,1
+Control ,CTR 2,90,318.9910979,1
+Uncrowded ,UC 1,30,236.1169987,1
+Uncrowded ,UC 1,60,342.0941077,1
+Uncrowded ,UC 1,90,619.7541331,1
+Uncrowded ,UC 2,30,252.756227,1
+Uncrowded ,UC 2,60,377.7051858,1
+Uncrowded ,UC 2,90,639.0363414,1
+Uncrowded ,UC 3,30,122.263748,1
+Uncrowded ,UC 3,60,140.950347,1
+Uncrowded ,UC 3,90,201.2813668,1
+Crowded ,C 1,30,437.5,1
+Crowded ,C 1,60,559.8591549,1
+Crowded ,C 1,90,860.915493,1
+Crowded ,C 2,30,181.2464265,1
+Crowded ,C 2,60,267.0097198,1
+Crowded ,C 2,90,440.53745,1
+Crowded ,C 3,30,244.8071217,1
+Crowded ,C 3,60,339.2680514,1
+Crowded ,C 3,90,537.586548,1
+Control ,CTR 1,30,180.362117,2
+Control ,CTR 1,60,212.3955432,2
+Control ,CTR 1,90,235.3760446,2
+Control ,CTR 2,30,281.773399,2
+Control ,CTR 2,60,335.9605911,2
+Control ,CTR 2,90,370.4433498,2
+Control ,CTR 3,30,127.3990735,2
+Control ,CTR 3,60,176.7041694,2
+Control ,CTR 3,90,220.0529451,2
+Uncrowded + Crowded Water  ,UC 1,30,139.584606,2
+Uncrowded + Crowded Water ,UC 1,60,173.488088,2
+Uncrowded + Crowded Water  ,UC 1,90,200.0610874,2
+Uncrowded + Crowded Water  ,UC 2,30,202.2248709,2
+Uncrowded + Crowded Water  ,UC 2,60,297.5764799,2
+Uncrowded + Crowded Water  ,UC 2,90,381.0091379,2
+Uncrowded + Crowded Water  ,UC 3,30,198.7767584,2
+Uncrowded + Crowded Water  ,UC 3,60,287.1219844,2
+Uncrowded + Crowded Water  ,UC 3,90,367.6520557,2
+Crowded ,C 1,30,275.8057936,2
+Crowded ,C 1,60,443.0844553,2
+Crowded ,C 1,90,595.6752346,2
+Crowded ,C 2,30,298.566879,2
+Crowded ,C 2,60,458.9968153,2
+Crowded ,C 2,90,586.3853503,2
+Crowded ,C 3,30,313.4851138,2
+Crowded ,C 3,60,478.1085814,2
+Crowded ,C 3,90,590.1926445,2
